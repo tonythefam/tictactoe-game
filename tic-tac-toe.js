@@ -329,4 +329,5 @@ while (retryNormal !== "n") {
     console.log("\nThank you for playing! See you soon!")
     console.log("\x1b[30mProperty of Wai Zhung Ng 2024.\x1b[0m\n");
 
-
+// This time, I am adding this line of code specifically for the branch 'using-cmd' and I plan to 
+// implement this new branch (i.e. commit, push and everything using PowerShell)
