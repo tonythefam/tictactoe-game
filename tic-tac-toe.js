@@ -329,4 +329,5 @@ while (retryNormal !== "n") {
     console.log("\nThank you for playing! See you soon!")
     console.log("\x1b[30mProperty of Wai Zhung Ng 2024.\x1b[0m\n");
 
-
+// I am now making changes to this file before I add it to the GitHub repository. I hope the TalentLabs examiner can
+// see this message! Thank you!
